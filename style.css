@@ -1,0 +1,72 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    height: 70px;
+    background-color: black;
+    align-items: center;
+
+
+}
+
+a {
+    color: white;
+
+}
+
+.container {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    width: 383px;
+
+}
+
+h1 {
+    /* width: 40%; */
+    display: flex;
+    justify-content: space-around;
+    font-size: 88px;
+    text-align: center;
+
+}
+
+h2 {
+    font-size: 30px;
+    text-align: center;
+
+}
+
+p {
+    text-align: center;
+}
+
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 30px;
+}
+
+.card {
+    width: 339px;
+}
+footer{
+    display: flex;
+    justify-content: space-around;
+    height: 70px;
+    background-color: black;
+    align-items: center;
+
+
+}
+.qwe{
+    width: 500px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
